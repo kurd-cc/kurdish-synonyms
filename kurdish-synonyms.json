@@ -1,0 +1,989 @@
+{
+  "all_words": [
+    {
+      "original_word": "han",
+      "synonyms": [
+        {
+          "word": "ev"
+        }
+      ]
+    },
+    {
+      "original_word": "al",
+      "synonyms": [
+        {
+          "word": "alî"
+        },
+        {
+          "word": "la"
+        }
+      ]
+    },
+    {
+      "original_word": "al",
+      "synonyms": [
+        {
+          "word": "ala"
+        }
+      ]
+    },
+    {
+      "original_word": "made",
+      "synonyms": [
+        {
+          "word": "mak"
+        },
+        {
+          "word": "make"
+        }
+      ]
+    },
+    {
+      "original_word": "ar",
+      "synonyms": [
+        {
+          "word": "ard"
+        }
+      ]
+    },
+    {
+      "original_word": "me",
+      "synonyms": [
+        {
+          "word": "im"
+        }
+      ]
+    },
+    {
+      "original_word": "malper",
+      "synonyms": [
+        {
+          "word": "serrûpel"
+        }
+      ]
+    },
+    {
+      "original_word": "kam",
+      "synonyms": [
+        {
+          "word": "cencer"
+        },
+        {
+          "word": "patoz"
+        }
+      ]
+    },
+    {
+      "original_word": "tav",
+      "synonyms": [
+        {
+          "word": "roj"
+        }
+      ]
+    },
+    {
+      "original_word": "im",
+      "synonyms": [
+        {
+          "word": "me"
+        }
+      ]
+    },
+    {
+      "original_word": "banyo",
+      "synonyms": [
+        {
+          "word": "hemam"
+        },
+        {
+          "word": "serşok"
+        }
+      ]
+    },
+    {
+      "original_word": "kolan",
+      "synonyms": [
+        {
+          "word": "zaboq"
+        }
+      ]
+    },
+    {
+      "original_word": "muçe",
+      "synonyms": [
+        {
+          "word": "meaş"
+        }
+      ]
+    },
+    {
+      "original_word": "dibistan",
+      "synonyms": [
+        {
+          "word": "mekteb"
+        }
+      ]
+    },
+    {
+      "original_word": "pirtûk",
+      "synonyms": [
+        {
+          "word": "kitêb"
+        }
+      ]
+    },
+    {
+      "original_word": "pûşber",
+      "synonyms": [
+        {
+          "word": "xezîran"
+        }
+      ]
+    },
+    {
+      "original_word": "xezîran",
+      "synonyms": [
+        {
+          "word": "pûşper"
+        },
+        {
+          "word": "pûşber"
+        }
+      ]
+    },
+    {
+      "original_word": "yarî",
+      "synonyms": [
+        {
+          "word": "tewz"
+        }
+      ]
+    },
+    {
+      "original_word": "qesem",
+      "synonyms": [
+        {
+          "word": "sond"
+        }
+      ]
+    },
+    {
+      "original_word": "çivîk",
+      "synonyms": [
+        {
+          "word": "beytik"
+        }
+      ]
+    },
+    {
+      "original_word": "şalyar",
+      "synonyms": [
+        {
+          "word": "wezîr"
+        }
+      ]
+    },
+    {
+      "original_word": "xela",
+      "synonyms": [
+        {
+          "word": "nêz"
+        }
+      ]
+    },
+    {
+      "original_word": "zemawend",
+      "synonyms": [
+        {
+          "word": "dawet"
+        }
+      ]
+    },
+    {
+      "original_word": "tenûr",
+      "synonyms": [
+        {
+          "word": "tendûr"
+        }
+      ]
+    },
+    {
+      "original_word": "çipik",
+      "synonyms": [
+        {
+          "word": "dilop"
+        }
+      ]
+    },
+    {
+      "original_word": "tîş",
+      "synonyms": [
+        {
+          "word": "derz"
+        }
+      ]
+    },
+    {
+      "original_word": "ferheng",
+      "synonyms": [
+        {
+          "word": "qamûs"
+        }
+      ]
+    },
+    {
+      "original_word": "qozeqer",
+      "synonyms": [
+        {
+          "word": "keskesor"
+        },
+        {
+          "word": "bûka baranê"
+        }
+      ]
+    },
+    {
+      "original_word": "mozik",
+      "synonyms": [
+        {
+          "word": "malok"
+        }
+      ]
+    },
+    {
+      "original_word": "xwîndarî",
+      "synonyms": [
+        {
+          "word": "vendeta"
+        }
+      ]
+    },
+    {
+      "original_word": "nabos",
+      "synonyms": [
+        {
+          "word": "zaboq"
+        }
+      ]
+    },
+    {
+      "original_word": "deng",
+      "synonyms": [
+        {
+          "word": "sewt"
+        }
+      ]
+    },
+    {
+      "original_word": "şênî",
+      "synonyms": [
+        {
+          "word": "akincî"
+        },
+        {
+          "word": "rûniştvan"
+        }
+      ]
+    },
+    {
+      "original_word": "bî",
+      "synonyms": [
+        {
+          "sense": "willow",
+          "word": "bîd",
+          "_dis1": "99 1"
+        }
+      ]
+    },
+    {
+      "original_word": "pî",
+      "synonyms": [
+        {
+          "sense": "foot",
+          "word": "پا‎",
+          "_dis1": "100 0"
+        }
+      ]
+    },
+    {
+      "original_word": "cotkar",
+      "synonyms": [
+        {
+          "word": "cotyar"
+        }
+      ]
+    },
+    {
+      "original_word": "hêk",
+      "synonyms": [
+        {
+          "word": "hêlik"
+        }
+      ]
+    },
+    {
+      "original_word": "hox",
+      "synonyms": [
+        {
+          "word": "beyar"
+        }
+      ]
+    },
+    {
+      "original_word": "cûr",
+      "synonyms": [
+        {
+          "word": "besîre"
+        },
+        {
+          "word": "harsim"
+        }
+      ]
+    },
+    {
+      "original_word": "qîzik",
+      "synonyms": [
+        {
+          "word": "keçik"
+        }
+      ]
+    },
+    {
+      "original_word": "Çîn",
+      "synonyms": [
+        {
+          "word": "Çînistan"
+        }
+      ]
+    },
+    {
+      "original_word": "Çînistan",
+      "synonyms": [
+        {
+          "word": "Çîn"
+        }
+      ]
+    },
+    {
+      "original_word": "hizir",
+      "synonyms": [
+        {
+          "word": "fikir"
+        }
+      ]
+    },
+    {
+      "original_word": "çayîr",
+      "synonyms": [
+        {
+          "word": "çîmên"
+        }
+      ]
+    },
+    {
+      "original_word": "zoq",
+      "synonyms": [
+        {
+          "word": "cot"
+        }
+      ]
+    },
+    {
+      "original_word": "çortan",
+      "synonyms": [
+        {
+          "word": "keşk"
+        }
+      ]
+    },
+    {
+      "original_word": "xest",
+      "synonyms": [
+        {
+          "word": "tîr"
+        }
+      ]
+    },
+    {
+      "original_word": "şeref",
+      "synonyms": [
+        {
+          "word": "namûs"
+        }
+      ]
+    },
+    {
+      "original_word": "marî",
+      "synonyms": [
+        {
+          "word": "mêkew"
+        }
+      ]
+    },
+    {
+      "original_word": "avahî",
+      "synonyms": [
+        {
+          "word": "xanî"
+        }
+      ]
+    },
+    {
+      "original_word": "kombers",
+      "synonyms": [
+        {
+          "word": "kompûter"
+        },
+        {
+          "word": "xêvjimêr"
+        }
+      ]
+    },
+    {
+      "original_word": "hemam",
+      "synonyms": [
+        {
+          "word": "banyo"
+        },
+        {
+          "word": "serşok"
+        }
+      ]
+    },
+    {
+      "original_word": "serşok",
+      "synonyms": [
+        {
+          "word": "banyo"
+        },
+        {
+          "word": "hemam"
+        }
+      ]
+    },
+    {
+      "original_word": "pênûs",
+      "synonyms": [
+        {
+          "word": "qelem"
+        }
+      ]
+    },
+    {
+      "original_word": "qelem",
+      "synonyms": [
+        {
+          "word": "pênûs"
+        }
+      ]
+    },
+    {
+      "original_word": "cumle",
+      "synonyms": [
+        {
+          "word": "hevok"
+        }
+      ]
+    },
+    {
+      "original_word": "pîj",
+      "synonyms": [
+        {
+          "word": "qirş"
+        }
+      ]
+    },
+    {
+      "original_word": "siyaset",
+      "synonyms": [
+        {
+          "word": "rêzanî"
+        }
+      ]
+    },
+    {
+      "original_word": "zîlik",
+      "synonyms": [
+        {
+          "word": "gilik"
+        },
+        {
+          "word": "nîtik"
+        },
+        {
+          "word": "tîtilk"
+        }
+      ]
+    },
+    {
+      "original_word": "ceyran",
+      "synonyms": [
+        {
+          "word": "kareba"
+        }
+      ]
+    },
+    {
+      "original_word": "balîna",
+      "synonyms": [
+        {
+          "word": "hût"
+        },
+        {
+          "word": "neheng"
+        }
+      ]
+    },
+    {
+      "original_word": "kompûter",
+      "synonyms": [
+        {
+          "word": "kombers"
+        },
+        {
+          "word": "bilgîsayar"
+        },
+        {
+          "word": "xêvjimêr"
+        }
+      ]
+    },
+    {
+      "original_word": "guhartin",
+      "synonyms": [
+        {
+          "word": "guherandin"
+        }
+      ]
+    },
+    {
+      "original_word": "guherandin",
+      "synonyms": [
+        {
+          "word": "guhartin",
+          "tags": [
+            "synonym",
+            "synonym-of"
+          ]
+        }
+      ]
+    },
+    {
+      "original_word": "akincî",
+      "synonyms": [
+        {
+          "word": "şênî"
+        },
+        {
+          "word": "rûniştvan"
+        }
+      ]
+    },
+    {
+      "original_word": "rûniştvan",
+      "synonyms": [
+        {
+          "word": "şênî"
+        },
+        {
+          "word": "akincî"
+        }
+      ]
+    },
+    {
+      "original_word": "şayîr",
+      "synonyms": [
+        {
+          "word": "helbestvan"
+        }
+      ]
+    },
+    {
+      "original_word": "qamûs",
+      "synonyms": [
+        {
+          "word": "ferheng"
+        }
+      ]
+    },
+    {
+      "original_word": "paldank",
+      "synonyms": [
+        {
+          "word": "palkursî"
+        },
+        {
+          "word": "qoltix"
+        }
+      ]
+    },
+    {
+      "original_word": "palkursî",
+      "synonyms": [
+        {
+          "word": "paldank"
+        },
+        {
+          "word": "qoltix"
+        }
+      ]
+    },
+    {
+      "original_word": "qoltix",
+      "synonyms": [
+        {
+          "word": "paldank"
+        },
+        {
+          "word": "palkursî"
+        }
+      ]
+    },
+    {
+      "original_word": "xurek",
+      "synonyms": [
+        {
+          "word": "xwarin"
+        },
+        {
+          "word": "zad"
+        },
+        {
+          "word": "qût"
+        }
+      ]
+    },
+    {
+      "original_word": "neheng",
+      "synonyms": [
+        {
+          "word": "hût"
+        },
+        {
+          "word": "balîna"
+        }
+      ]
+    },
+    {
+      "original_word": "bilgîsayar",
+      "synonyms": [
+        {
+          "word": "kompûter"
+        },
+        {
+          "word": "kombers"
+        }
+      ]
+    },
+    {
+      "original_word": "eylo",
+      "synonyms": [
+        {
+          "word": "qertel"
+        }
+      ]
+    },
+    {
+      "original_word": "qertel",
+      "synonyms": [
+        {
+          "word": "eylo"
+        }
+      ]
+    },
+    {
+      "original_word": "asoxî",
+      "synonyms": [
+        {
+          "word": "taliyê"
+        },
+        {
+          "word": "axirî"
+        }
+      ]
+    },
+    {
+      "original_word": "mitleq",
+      "synonyms": [
+        {
+          "word": "miqîm"
+        }
+      ]
+    },
+    {
+      "original_word": "mixenet",
+      "synonyms": [
+        {
+          "word": "xayîn"
+        }
+      ]
+    },
+    {
+      "original_word": "mixdar",
+      "synonyms": [
+        {
+          "word": "qeder"
+        }
+      ]
+    },
+    {
+      "original_word": "meqsed",
+      "synonyms": [
+        {
+          "word": "mebest"
+        }
+      ]
+    },
+    {
+      "original_word": "zincîr",
+      "synonyms": [
+        {
+          "word": "çîdar"
+        }
+      ]
+    },
+    {
+      "original_word": "haqas",
+      "synonyms": [
+        {
+          "word": "hinde"
+        }
+      ]
+    },
+    {
+      "original_word": "çewtî",
+      "synonyms": [
+        {
+          "word": "xelet"
+        }
+      ]
+    },
+    {
+      "original_word": "çiqil",
+      "synonyms": [
+        {
+          "word": "gulî"
+        }
+      ]
+    },
+    {
+      "original_word": "çîmen",
+      "synonyms": [
+        {
+          "word": "mêrg"
+        }
+      ]
+    },
+    {
+      "original_word": "çarşev",
+      "synonyms": [
+        {
+          "word": "çadir"
+        }
+      ]
+    },
+    {
+      "original_word": "çeper",
+      "synonyms": [
+        {
+          "word": "k'ozik"
+        }
+      ]
+    },
+    {
+      "original_word": "xêvet",
+      "synonyms": [
+        {
+          "word": "çadir"
+        }
+      ]
+    },
+    {
+      "original_word": "şûrik",
+      "synonyms": [
+        {
+          "word": "hincar"
+        }
+      ]
+    },
+    {
+      "original_word": "hevser",
+      "synonyms": [
+        {
+          "word": "bûsat"
+        }
+      ]
+    },
+    {
+      "original_word": "hevûrî",
+      "synonyms": [
+        {
+          "word": "gîsk"
+        }
+      ]
+    },
+    {
+      "original_word": "hevris",
+      "synonyms": [
+        {
+          "word": "merx"
+        }
+      ]
+    },
+    {
+      "original_word": "mişmiş",
+      "synonyms": [
+        {
+          "word": "hêrûg"
+        }
+      ]
+    },
+    {
+      "original_word": "bastannas",
+      "synonyms": [
+        {
+          "word": "arkeolog"
+        },
+        {
+          "word": "şûnwarnas"
+        }
+      ]
+    },
+    {
+      "original_word": "niştîman",
+      "synonyms": [
+        {
+          "word": "welat"
+        }
+      ]
+    },
+    {
+      "original_word": "nojdar",
+      "synonyms": [
+        {
+          "word": "duxtor"
+        }
+      ]
+    },
+    {
+      "original_word": "hogir",
+      "synonyms": [
+        {
+          "word": "heval"
+        }
+      ]
+    },
+    {
+      "original_word": "pitir",
+      "synonyms": [
+        {
+          "word": "bêtir"
+        }
+      ]
+    },
+    {
+      "original_word": "tirî",
+      "synonyms": [
+        {
+          "word": "mewî"
+        }
+      ]
+    },
+    {
+      "original_word": "tiştanok",
+      "synonyms": [
+        {
+          "word": "mamik"
+        }
+      ]
+    },
+    {
+      "original_word": "qeder",
+      "synonyms": [
+        {
+          "word": "mixdar"
+        }
+      ]
+    },
+    {
+      "original_word": "qefle",
+      "synonyms": [
+        {
+          "word": "îrxî"
+        }
+      ]
+    },
+    {
+      "original_word": "tîvil",
+      "synonyms": [
+        {
+          "word": "qalik"
+        }
+      ]
+    },
+    {
+      "original_word": "peyiv",
+      "synonyms": [
+        {
+          "word": "gotin"
+        }
+      ]
+    },
+    {
+      "original_word": "peywir",
+      "synonyms": [
+        {
+          "word": "vatinî"
+        }
+      ]
+    },
+    {
+      "original_word": "peyker",
+      "synonyms": [
+        {
+          "word": "heykel"
+        }
+      ]
+    },
+    {
+      "original_word": "werz",
+      "synonyms": [
+        {
+          "word": "parêz"
+        }
+      ]
+    },
+    {
+      "original_word": "heyam",
+      "synonyms": [
+        {
+          "word": "kêlî"
+        }
+      ]
+    },
+    {
+      "original_word": "şivdar",
+      "synonyms": [
+        {
+          "word": "ço"
+        }
+      ]
+    },
+    {
+      "original_word": "dikak",
+      "synonyms": [
+        {
+          "word": "deramet"
+        }
+      ]
+    },
+    {
+      "original_word": "dergelî",
+      "synonyms": [
+        {
+          "word": "derteng"
+        }
+      ]
+    }
+  ]
+}
